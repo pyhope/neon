@@ -8,4 +8,4 @@
 ### Useage:
 * **Step 1:** Smooth the trajectory using OVITO (remove thermal vibrational displacements of atoms)
 * **Step 2:** Extract one frame from the smoothed trajectory
-* **Step 3:** Change the filename in `neighbor_analysis.py` and run `python3 neighbor_analysis.py`
+* **Step 3:** Set the input filename in `neighbor_analysis.py` and run `python3 neighbor_analysis.py`
